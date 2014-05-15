@@ -1,4 +1,4 @@
-conference-website
+conference
 ==================
 
 Combine Spring MVC with Mybatis
